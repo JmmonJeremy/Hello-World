@@ -64,7 +64,7 @@ def main():
         pygame.display.update()
 
 # run the Hello Word through pygame in the main function
-if __name__ == '__main__':
+if __name__ == "__main__":
     pygame.init()
     # print Hello World with different colors and use the join fuction to use the unicode character \u0332 for underline to underline Hello
     print(Style.BRIGHT + Fore.RED + Back.YELLOW + "\u0332".join(" Hello ") + Fore.CYAN + "World" + Fore.MAGENTA + " !!! " + Style.RESET_ALL)
@@ -72,5 +72,5 @@ if __name__ == '__main__':
 
 
 # stop the process when exited
-if __name__ == '__main__':   
+if __name__ == "__main__":   
     pg.quit()

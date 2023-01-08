@@ -1,8 +1,8 @@
 # Overview
 
-This is a basic Hello World program. I created this to demonstrate the use of Visual Studio Code, GitHub, and Python integrated together. I also wanted to show the extra pazaz that can be added to a simple program through libraries such as colorama and pygame.
+This is a basic Hello World program. I created this to demonstrate the use of Visual Studio Code, GitHub, and Python integrated together. I also wanted to show the extra pizazz that can be added to a simple program through libraries such as colorama and pygame within a venv.
 
-You can watch a demo of my software here: [Software Demo Video](http://youtube.link.goes.here)
+You can watch a demo of my software here: [Software Demo Video](https://youtu.be/3P_2wxxeNUQ)
 
 # Development Environment
 
